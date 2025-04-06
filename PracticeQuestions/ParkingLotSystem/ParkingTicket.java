@@ -2,8 +2,8 @@ package PracticeQuestions.ParkingLotSystem;
 
 import java.time.LocalDateTime;
 
-import PracticeQuestions.ParkingLotSystem.ParkingSpots.ParkingSpot;
-import PracticeQuestions.ParkingLotSystem.Vehicles.Vehicle;
+import PracticeQuestions.ParkingLotSystem.parkingSpots.ParkingSpot;
+import PracticeQuestions.ParkingLotSystem.vehicles.Vehicle;
 
 public class ParkingTicket {
     private static int counter = 1;

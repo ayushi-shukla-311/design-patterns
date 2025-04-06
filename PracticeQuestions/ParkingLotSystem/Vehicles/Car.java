@@ -1,4 +1,4 @@
-package PracticeQuestions.ParkingLotSystem.Vehicles;
+package PracticeQuestions.ParkingLotSystem.vehicles;
 
 import PracticeQuestions.ParkingLotSystem.VehicleType;; // Add this import statement
 

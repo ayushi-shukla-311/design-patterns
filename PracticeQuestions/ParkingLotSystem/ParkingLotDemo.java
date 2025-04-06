@@ -1,11 +1,11 @@
 package PracticeQuestions.ParkingLotSystem;
 
 
-import PracticeQuestions.ParkingLotSystem.ParkingSpots.CompactSpot;
-import PracticeQuestions.ParkingLotSystem.ParkingSpots.HandicappedSpot;
-import PracticeQuestions.ParkingLotSystem.ParkingSpots.RegularSpot;
-import PracticeQuestions.ParkingLotSystem.Vehicles.Car;
-import PracticeQuestions.ParkingLotSystem.Vehicles.Vehicle;
+import PracticeQuestions.ParkingLotSystem.parkingSpots.CompactSpot;
+import PracticeQuestions.ParkingLotSystem.parkingSpots.HandicappedSpot;
+import PracticeQuestions.ParkingLotSystem.parkingSpots.RegularSpot;
+import PracticeQuestions.ParkingLotSystem.vehicles.Car;
+import PracticeQuestions.ParkingLotSystem.vehicles.Vehicle;
 
 public class ParkingLotDemo {
     public static void main(String[] args) throws InterruptedException {

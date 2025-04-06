@@ -1,7 +1,7 @@
-package PracticeQuestions.ParkingLotSystem.ParkingSpots;
+package PracticeQuestions.ParkingLotSystem.parkingSpots;
 
 import PracticeQuestions.ParkingLotSystem.ParkingSpotType;
-import PracticeQuestions.ParkingLotSystem.Vehicles.Vehicle;
+import PracticeQuestions.ParkingLotSystem.vehicles.Vehicle;
 
 public abstract class ParkingSpot {
     private String id;

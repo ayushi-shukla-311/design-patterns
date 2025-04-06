@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import PracticeQuestions.ParkingLotSystem.ParkingSpots.ParkingSpot;
+import PracticeQuestions.ParkingLotSystem.parkingSpots.ParkingSpot;
 
 public class ParkingLevel {
     private String name;

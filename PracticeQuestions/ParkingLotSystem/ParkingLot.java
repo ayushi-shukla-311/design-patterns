@@ -5,10 +5,11 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import PracticeQuestions.ParkingLotSystem.ParkingFeeStrategies.HourlyFeeStrategy;
-import PracticeQuestions.ParkingLotSystem.ParkingFeeStrategies.ParkingFeeStrategy;
-import PracticeQuestions.ParkingLotSystem.ParkingSpots.ParkingSpot;
-import PracticeQuestions.ParkingLotSystem.Vehicles.Vehicle;
+
+import PracticeQuestions.ParkingLotSystem.parkingFeeStrategies.HourlyFeeStrategy;
+import PracticeQuestions.ParkingLotSystem.parkingFeeStrategies.ParkingFeeStrategy;
+import PracticeQuestions.ParkingLotSystem.parkingSpots.ParkingSpot;
+import PracticeQuestions.ParkingLotSystem.vehicles.Vehicle;
 
 public class ParkingLot {
     private static ParkingLot instance = null;

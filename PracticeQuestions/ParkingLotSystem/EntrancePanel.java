@@ -1,6 +1,6 @@
 package PracticeQuestions.ParkingLotSystem;
 
-import PracticeQuestions.ParkingLotSystem.Vehicles.Vehicle;
+import PracticeQuestions.ParkingLotSystem.vehicles.Vehicle;
 
 public class EntrancePanel {
     private String id;

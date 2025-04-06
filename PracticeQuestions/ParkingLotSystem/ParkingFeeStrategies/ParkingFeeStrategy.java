@@ -1,4 +1,4 @@
-package PracticeQuestions.ParkingLotSystem.ParkingFeeStrategies;
+package PracticeQuestions.ParkingLotSystem.parkingFeeStrategies;
 
 import PracticeQuestions.ParkingLotSystem.ParkingTicket;
 
