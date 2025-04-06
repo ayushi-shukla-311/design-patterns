@@ -1,4 +1,4 @@
-package CreationalPatterns.singletonPattern.SynchronizedBlock;
+package CreationalPatterns.SingletonPattern.SynchronizedBlock;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package CreationalPatterns.singletonPattern.BillPughSolution;
+package CreationalPatterns.SingletonPattern.BillPughSolution;
 // This is a thread safe singleton class
 
 

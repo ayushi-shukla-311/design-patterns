@@ -1,4 +1,4 @@
-package CreationalPatterns.singletonPattern.lazyInitialisation;
+package CreationalPatterns.SingletonPattern.lazyInitialisation;
 
 public class DBConnection {
     private static DBConnection conObject;

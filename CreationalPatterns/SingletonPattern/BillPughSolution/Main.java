@@ -1,4 +1,4 @@
-package CreationalPatterns.singletonPattern.BillPughSolution;
+package CreationalPatterns.SingletonPattern.BillPughSolution;
 
 public class Main {
     public static void main(String args[]){

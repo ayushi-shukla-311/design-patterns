@@ -1,4 +1,4 @@
-package CreationalPatterns.singletonPattern.EnumSolution;
+package CreationalPatterns.SingletonPattern.EnumSolution;
 
 enum DBConnection {
     INSTANCE;

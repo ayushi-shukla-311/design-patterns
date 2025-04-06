@@ -1,4 +1,4 @@
-package CreationalPatterns.singletonPattern.SynchronizedBlock;
+package CreationalPatterns.SingletonPattern.SynchronizedBlock;
 
 public class DBConnection {
     private static volatile DBConnection conObject; //it is a bit slow because volatile makes the object to be updated in memory directly rather than cache
